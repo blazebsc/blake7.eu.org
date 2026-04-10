@@ -203,3 +203,13 @@ a:hover {
     padding: 60px 0;
   }
 }
+
+#photo {
+  padding: 60px 0;
+}
+
+.big-photo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+}

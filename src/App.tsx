@@ -37,6 +37,10 @@ function App() {
           </div>
         </div>
       </section>
+
+      <section id="photo">
+        <img src="/po.jpeg" alt="po" className="big-photo" />
+      </section>
     </>
   )
 }
