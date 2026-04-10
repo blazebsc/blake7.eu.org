@@ -6,7 +6,7 @@ function App() {
           <h1>blake7</h1>
           <p className="tagline">Full-stack developer & open source enthusiast</p>
           <div className="social-links">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://github.com/blazebsc" target="_blank" rel="noopener noreferrer">GitHub</a>
             <a href="mailto:me@blake7.eu.org">Email</a>
           </div>
         </div>
