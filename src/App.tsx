@@ -3,20 +3,18 @@ function App() {
     <>
       <section id="hero">
         <div className="hero-content">
-          <h1>Blake Smith</h1>
+          <h1>blake7</h1>
           <p className="tagline">Full-stack developer & open source enthusiast</p>
           <div className="social-links">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
-            <a href="mailto:hello@example.com">Email</a>
+            <a href="mailto:me@blake7.eu.org">Email</a>
           </div>
         </div>
       </section>
 
       <section id="about">
         <h2>About</h2>
-        <p>I'm a software developer passionate about building great products and contributing to open source. I specialize in web development and love creating elegant solutions to complex problems.</p>
+        <p>I'm a software developer passionate about building great products and contributing to open source. I specialize in web development.</p>
       </section>
 
       <section id="projects">
@@ -38,12 +36,6 @@ function App() {
             <a href="#" target="_blank" rel="noopener noreferrer">View Project →</a>
           </div>
         </div>
-      </section>
-
-      <section id="contact">
-        <h2>Get in Touch</h2>
-        <p>Interested in working together? Let's connect!</p>
-        <a href="mailto:hello@example.com" className="contact-btn">Say Hello</a>
       </section>
     </>
   )
