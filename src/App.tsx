@@ -4,7 +4,7 @@ function App() {
       <section id="hero">
         <div className="hero-content">
           <h1>blake7</h1>
-          <p className="tagline">Full-stack developer & open source enthusiast</p>
+          <p className="tagline">A person</p>
           <div className="social-links">
             <a href="https://github.com/blazebsc" target="_blank" rel="noopener noreferrer">GitHub</a>
             <a href="mailto:me@blake7.eu.org">Email</a>
@@ -14,7 +14,7 @@ function App() {
 
       <section id="about">
         <h2>About</h2>
-        <p>I'm a software developer passionate about building great products and contributing to open source. I specialize in web development.</p>
+        <p>Im a sigma boi</p>
       </section>
 
       <section id="projects">
